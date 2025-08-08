@@ -10,6 +10,8 @@
 # Lore
 
 #lore
+#lore/introduction
+#lore/plot
 
 # Characters
 

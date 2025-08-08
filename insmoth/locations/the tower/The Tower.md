@@ -1,0 +1,4 @@
+
+# Introduction
+
+The tower, shrouded in mist, rises to the sky as a dark monolith, casting its shadow over the highest trees of the forest. Dark stone, decorated with intricate ornaments and impossible arches rises up to the sky. The stone work is cracked and crumbling in places and black vines crawl out of the openings, climbing and spreading over the walls of the tower as some twisted infestation. A big clock sits prominent within the top of the tower, showing not the time, but the phases of the moon. On the low side it shows a full round silver moon disc and on the upper side it is a wholly eclipsed disc of onyx. The hands of the clock point almost at the eclipse. A small grove of pale trees, their branches skeletal and twisted, with not a single leave to be seen surrounds the base of the tower. A large set of arched double doors seems to be the only entry point in sight.

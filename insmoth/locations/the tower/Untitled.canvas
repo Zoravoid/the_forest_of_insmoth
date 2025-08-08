@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"9eb7725a5ae40333","x":-80,"y":-240,"width":250,"height":330,"type":"text","text":"Stairway"},
+		{"id":"2b2aafbc822a82de","x":-380,"y":0,"width":250,"height":60,"type":"text","text":"Entrance Hall"},
+		{"id":"50d03ee7b0884817","x":-380,"y":-135,"width":250,"height":60,"type":"text","text":"Library"},
+		{"id":"fb18506205d69b26","x":220,"y":-220,"width":250,"height":60,"type":"text","text":"Bedroom"},
+		{"id":"14c0ac069bae1723","x":220,"y":-75,"width":250,"height":60,"type":"text","text":"Ballroom"},
+		{"id":"3c654ad8cea3fdab","x":-80,"y":-360,"width":250,"height":60,"type":"text","text":"Observatory"},
+		{"id":"307c2b5166d8362a","x":-80,"y":140,"width":250,"height":60,"type":"text","text":"Dungeon"},
+		{"id":"28ae8743ffa0d95f","x":220,"y":140,"width":250,"height":60,"type":"text","text":"Morgue"},
+		{"id":"f70624a3c60f0f3e","x":-380,"y":140,"width":250,"height":60,"type":"text","text":"Quarantine Cells"},
+		{"id":"8a28df823ca58686","x":-80,"y":260,"width":250,"height":60,"type":"text","text":"Laboratory"},
+		{"id":"a42857e2a774a3c6","x":-80,"y":380,"width":250,"height":60,"type":"text","text":"Sealing Chamber"}
+	],
+	"edges":[
+		{"id":"482f310ad671b097","fromNode":"307c2b5166d8362a","fromSide":"bottom","toNode":"8a28df823ca58686","toSide":"top"},
+		{"id":"4e982061be031470","fromNode":"8a28df823ca58686","fromSide":"bottom","toNode":"a42857e2a774a3c6","toSide":"top"},
+		{"id":"8cc90de01e98681a","fromNode":"307c2b5166d8362a","fromSide":"right","toNode":"28ae8743ffa0d95f","toSide":"left"},
+		{"id":"a7d78b9aa511923e","fromNode":"307c2b5166d8362a","fromSide":"left","toNode":"f70624a3c60f0f3e","toSide":"right"},
+		{"id":"76478df479707baf","fromNode":"2b2aafbc822a82de","fromSide":"right","toNode":"9eb7725a5ae40333","toSide":"left"},
+		{"id":"2b9d3a0ee5d33dbf","fromNode":"50d03ee7b0884817","fromSide":"right","toNode":"9eb7725a5ae40333","toSide":"left"},
+		{"id":"850feed51b0ef106","fromNode":"14c0ac069bae1723","fromSide":"left","toNode":"9eb7725a5ae40333","toSide":"right"},
+		{"id":"d6b8b69f26d8a0e9","fromNode":"fb18506205d69b26","fromSide":"left","toNode":"9eb7725a5ae40333","toSide":"right"},
+		{"id":"bfbf9b9c0613e06d","fromNode":"9eb7725a5ae40333","fromSide":"top","toNode":"3c654ad8cea3fdab","toSide":"bottom"},
+		{"id":"22063c09eae1daa0","fromNode":"9eb7725a5ae40333","fromSide":"bottom","toNode":"307c2b5166d8362a","toSide":"top"}
+	]
+}

@@ -14,7 +14,7 @@ LIMIT 20
 ```dataview
 TABLE file.etags AS "Tags", file.mtime AS "Last Modified"
 FROM "git/insmoth"
-WHERE contains(file.tags, "#characters/player/campaign/the_blight/beaumont")
+WHERE contains(file.tags, "Input query tag here!")
 SORT file.etags ASC
 LIMIT 20
 ```
